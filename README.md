@@ -43,7 +43,6 @@ SyncWell is an intuitive **iOS and Apple Watch** health-tracking app developed b
 
 
 ---
-
 ## 📲 Installation  
 
 ### **For Developers**  
