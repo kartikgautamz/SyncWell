@@ -37,10 +37,12 @@ SyncWell is an intuitive **iOS and Apple Watch** health-tracking app developed b
 
 ---
 
-## 📸 Screenshots  
-![IMG_1928](https://github.com/user-attachments/assets/db26f0e7-5ea4-4539-8cab-46898949614e)
-![IMG_1927](https://github.com/user-attachments/assets/7fe6663f-a277-4f8b-a5d1-406fc66449e1)
+## 📸 Screenshots 
 ![IMG_1926](https://github.com/user-attachments/assets/6180d9d0-1526-45a5-959d-71f998cd52cb)
+![IMG_1927](https://github.com/user-attachments/assets/7fe6663f-a277-4f8b-a5d1-406fc66449e1)
+![IMG_1928](https://github.com/user-attachments/assets/db26f0e7-5ea4-4539-8cab-46898949614e)
+
+
 
 
 ---
